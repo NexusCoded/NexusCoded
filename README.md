@@ -1,5 +1,4 @@
 # 👋 | WELCOME 
-Hi there! I'm NexusCoded, and I'm thrilled to have you visit my GitHub profile. As a blockchain enthusiast and developer, I'm dedicated to pioneering innovative solutions in decentralized finance and talent marketplaces. 
 
 ## 👩🏻‍💼 My capabilities: 
 - **Layer 2 Blockchain Solutions:**
