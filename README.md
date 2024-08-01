@@ -1,22 +1,24 @@
-# 👋 | WELCOME 
-
+📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜
+**ON THE SCROLL**
 ## 👩🏻‍💼 My capabilities: 
+
+- **Integration with Mobile and Web Platforms:**
+  - Experience in developing mobile and web applications integrated with blockchain technology.
+
+  - **Smart Contract Development:**
+  - Skilled in Solidity and Ethereum-compatible smart contracts for automating and enforcing agreements.
+    
 - **Layer 2 Blockchain Solutions:**
   - Expertise in zkEVM and Layer 2 technologies.
 
 - **FinTech and Talent Marketplaces:**
   - Deep understanding of financial services and talent marketplace operations, focusing on efficient and cost-effective solutions.
 
- - **Smart Contract Development:**
-  - Skilled in Solidity and Ethereum-compatible smart contracts for automating and enforcing agreements.
-
 - **Zero-Knowledge Proofs:**
   - Proficient in cryptographic techniques ensuring secure and private transactions and credential verification.
 
-- **Integration with Mobile and Web Platforms:**
-  - Experience in developing mobile and web applications integrated with blockchain technology.
 
-## ❗ Current Project: TalentScroll
+## 📍 My Current Project: TalentScroll
  A groundbreaking talent marketplace harnessing Scroll's zkEVM Layer 2 technology to provide unparalleled privacy, security, and cost-efficiency in credential verification and job agreements, with a special focus on the African employment market.
 
 - **Privacy and Security:** Ensuring privacy while verifying credentials using zkEVM technology, protecting sensitive information, and maintaining trust.
@@ -33,7 +35,7 @@
 
 This unique combination of advanced blockchain technology and targeted problem-solving makes TalentScroll a standout solution in the talent marketplace ecosystem.
 
-## 🙌 Collaboration
+## 📍 Collaboration
 Feel free to fork my repositories, open issues, and submit pull requests. I would love to work with other enthusiast. 
 Lets build the scroll together. 
 and if you would like to **spport** my work, donate to my **ethereum wallet (0xc49edf5157bc9c52bffab8751502a51e5418fa97)**
