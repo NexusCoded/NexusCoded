@@ -38,7 +38,7 @@ This unique combination of advanced blockchain technology and targeted problem-s
 ## 📍 Collaboration
 Feel free to fork my repositories, open issues, and submit pull requests. I would love to work with other enthusiast. 
 Lets build the scroll together. 
-and if you would like to **spport** my work, donate to my **ethereum wallet (0xc49edf5157bc9c52bffab8751502a51e5418fa97)**
+And if you would like to **spport** my work, donate to my **ethereum wallet (0xc49edf5157bc9c52bffab8751502a51e5418fa97)**
 
 Thanks for visiting my profile! Let's connect and drive the blockchain space forward together. Happy coding and trading!(˶ᵔ ᵕ ᵔ˶)
 
