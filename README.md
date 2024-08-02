@@ -1,5 +1,6 @@
-📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜
-**ON THE SCROLL**
+📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜📜
+
+**BUILDING ON SCROLL**
 ## 👩🏻‍💼 My capabilities: 
 
 - **Integration with Mobile and Web Platforms:**
