@@ -37,7 +37,7 @@
 This unique combination of advanced blockchain technology and targeted problem-solving makes TalentScroll a standout solution in the talent marketplace ecosystem.
 
 ## 📍Let's collaborate: 
-Feel free to fork my repositories, open issues, and submit pull requests. I would love to work with other enthusiast. 
+Feel free to fork my repositories, open issues, and submit pull requests. I would love to work with other enthusiast.
 Lets build the scroll together. 
 
 
